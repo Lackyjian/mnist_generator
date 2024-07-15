@@ -1,6 +1,6 @@
-tensorflow
+tensorflow==2.14.0
 keras
 matplotlib
 numpy
-streamlit
+streamlit==1.27.2
 opencv-python-headless
